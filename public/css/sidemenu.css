@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+.sidemenu{
+    position: fixed;
+    top: 0px;
+    left: 0ox;
+    height: 100%;
+    width: 240px;
+    background-color: #DA7500;
+}
+.sidemenu ul{
+    margin-top: 50px;
+}
+
+.sidemenu ul li{
+    position: relative;
+    left: -20px;
+    height: 50px;
+    width: 100%;
+    margin: 0 5px;
+    line-height: 50px;
+    list-style: none;
+}
+.sidemenu ul li a{
+    color: white;
+    font-family: roboto;
+    font-size: large;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transform: all 0.4s ease;
+}
+.sidemenu ul li a:hover{
+    color: #370B11;
+    background: white;
+}
+.sidemenu ul li a i{
+    height: 50px;
+    min-width: 50px;
+    border-radius: 12px;
+    font-size: x-large;
+    line-height: 50px;
+    text-align: center;
+}
+.sidemenu .logout a{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    bottom: 0;
+    /* left: 10px;  */
+}
+.sidemenu .logout a i{
+    height: 50px;
+    min-width: 50px;
+    border-radius: 12px;
+    font-size: x-large;
+    line-height: 50px;
+    text-align: right;
+}
