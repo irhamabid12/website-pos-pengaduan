@@ -5,8 +5,8 @@
 Website sistem penanganan pengaduan pelanggan Kantor Pos Surabaya 60000 [PosBantuan](https://posbantuan.rgtasty.com/) merupakan sistem penanganan pengaduan berbasis website yang dibuat untuk mempermudah dalam penanganan pengaduan dengan diintegrasikan dengan fitur Telegram Bot agar proses pelayanan pelanggan dapat lebih responsive.
 
 Untuk akses website klik [PosBantuan](https://posbantuan.rgtasty.com/) dengan akses login:
-Username: admin01
-Password: admin
+- Username: admin01
+- Password: admin
 
 ## Fitur
 
@@ -63,6 +63,6 @@ pastikan sudah terinstall composer dan PHP pada komputer, kemudian jalankan loka
 
 ## Credit
 > Irham Maulana Abid
-Politeknik Elektronika Negeri Surabaya
-D3 Teknik Telekomunikasi
-2022
+> Politeknik Elektronika Negeri Surabaya
+> D3 Teknik Telekomunikasi
+> 2022
